@@ -8,4 +8,4 @@ for  i in range(len(a)):
         
 print(m)
 
-# time complexity
+# time complexity O(n)
