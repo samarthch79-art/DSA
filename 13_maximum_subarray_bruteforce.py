@@ -13,4 +13,4 @@ for i in range(len(a)):
 print(max)  
 
 # time complexity O(n)
-#cspace complexity O(1)
+# space complexity O(1)
